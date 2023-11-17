@@ -4,4 +4,4 @@ Core Java Application where you can add songs in a playlist. By starting the pla
 # Project contains
 
 -OOP principles <br>                                                                                                                                                   -java collections such as LinkedList, ArrayList<br>
-&& much more
+& much more
